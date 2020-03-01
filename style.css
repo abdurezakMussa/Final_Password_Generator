@@ -55,7 +55,7 @@ textarea {
 }
 /* Styles for button div */
 #btn {
-    color: green;
+    
     margin-top: 20px;
 }
 /* Styles for generate button */
@@ -87,7 +87,8 @@ textarea {
 
 /* Start Media Query */
 /* A Media Query max-width: 980px */
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 980px) 
+{
     /* Resized content to fit 980px  */
     body {
         max-width: 980px;
@@ -115,7 +116,7 @@ textarea {
 }
 /* Styles for copy button */
 
-    }
+}
     /* A Media Query max-width: 640px */
     @media screen and (max-width: 640px) {
      /* Resized content to fit 640px  */
@@ -141,3 +142,4 @@ textarea {
         }
     
     }
+}
