@@ -10,7 +10,8 @@ When the user click password generate the program ask what kind of password do y
 -  do you need special character 
 Then according to the user need  will generate the password, then  you can copy the password. 
 Finally the there is reset button you can clear the password from the page. 
-
+##  Page Link
+- <https://abdurezakmussa.github.io/Final_Password_Generator.github.io/>
 ## Contributing
 Abdurezak Abdelkader is one of the contributor <abdurekmjob@gmail.com>.
 
